@@ -1,6 +1,5 @@
--- Create the database if it doesn't exist
-CREATE DATABASE IF NOT EXISTS `mcq_exam_system`;
-USE `mcq_exam_system`;
+s-- Use Aiven's existing database
+USE `defaultdb`;
 
 -- 1. Users Table
 CREATE TABLE IF NOT EXISTS `users` (
