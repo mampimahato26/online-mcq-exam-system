@@ -1,4 +1,5 @@
-const API_URL = 'http://localhost:5000/api';
+//const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://online-mcq-exam-system-yt6h.onrender.com/api';
 
 import axios from 'axios';
 
