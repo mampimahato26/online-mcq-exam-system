@@ -1,8 +1,10 @@
 # Online MCQ Exam System
 
-A secure, fully functional, and clean full-stack academic web application designed for colleges. It enables examiners to create timed multiple-choice exams (exactly 10 questions) and students to attempt tests with automated grading and countdown auto-submission features. System administrators can audit all users, exams, and grades.
+🔗 **[Live Demo](https://online-mcq-exam-system-beta.vercel.app/)**
 
+A secure, fully functional, and clean full-stack academic web application designed for colleges. It enables examiners to create timed multiple-choice exams (exactly 10 questions) and students to attempt tests with automated grading and countdown auto-submission features. System administrators can audit all users, exams, and grades.
 ---
+
 
 ## Technology Stack
 
