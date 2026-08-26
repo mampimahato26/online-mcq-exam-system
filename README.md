@@ -81,14 +81,16 @@ The relational structure consists of four main tables inside the `mcq_exam_syste
    ```bash
    copy .env.example .env
    ```
-3. Open the `.env` file and configure your local MySQL credentials:
-   ```env
-   PORT=5000
-   DB_HOST=127.0.0.1
-   DB_USER=your_mysql_username
-   DB_PASSWORD=your_mysql_password
-   DB_NAME=mcq_exam_system
-   JWT_SECRET=mcq_exam_system_secret_key_2026
+3. Open the `.env` file and configure your database credentials:
+
+```env
+PORT=5000
+DB_HOST=your_database_host
+DB_PORT=your_database_port
+DB_USER=your_database_username
+DB_PASSWORD=your_database_password
+DB_NAME=your_database_name
+JWT_SECRET=your_jwt_secret
    ```
 4. Install backend node packages:
    ```bash
